@@ -67,10 +67,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 Install the required packages:
 
-pip install -r requirements.txt
-
-If requirements.txt is not available, install dependencies manually:
-
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 Run the Jupyter Notebook:
