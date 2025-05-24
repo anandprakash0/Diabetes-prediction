@@ -1,4 +1,4 @@
-🩺 Diabetes Prediction using Machine Learning
+# 🩺 Diabetes Prediction using Machine Learning
 
 ![Diabetes Prediction](https://img.shields.io/badge/Machine%20Learning-Diabetes%20Prediction-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
@@ -11,15 +11,17 @@ This project aims to predict the likelihood of an individual having diabetes bas
 
 ```plaintext
 Diabetes-prediction/
-├── PIMA.ipynb
-├── dataset_prediction.ipynb
-├── diabetes.ipynb
-├── diabetes_012_health_indicators_BRFSS2015.csv
-├── diabetes_prediction_dataset.csv
-├── pima-data.csv
+├── data/
+│   ├── diabetes_012_health_indicators_BRFSS2015.csv
+│   ├── diabetes_prediction_dataset.csv
+│   └── pima-data.csv
+├── notebooks/
+│   ├── PIMA.ipynb
+│   ├── dataset_prediction.ipynb
+│   └── diabetes.ipynb
+├── README.md
 ├── LICENSE
-└── README.md
-
+```
 
 ## 🧠 Algorithms Implemented
 
