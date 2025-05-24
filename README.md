@@ -9,6 +9,7 @@ This project aims to predict the likelihood of an individual having diabetes bas
 
 ## 📂 Project Structure
 
+```plaintext
 Diabetes-prediction/
 ├── PIMA.ipynb
 ├── dataset_prediction.ipynb
