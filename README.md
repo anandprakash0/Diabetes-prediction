@@ -2,6 +2,8 @@
 
 ![Diabetes Prediction](https://img.shields.io/badge/Machine%20Learning-Diabetes%20Prediction-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Contributors](https://img.shields.io/github/contributors/anandprakash0/Diabetes-prediction)
+
 
 ## 📌 Overview
 
